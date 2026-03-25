@@ -148,26 +148,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandru-python&theme=radical" alt="Profile Details" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandru-python&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandru-python&theme=radical" width="45%" />
-</p>
 
----
-
-## 🏆 Achievements & Certifications
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandru-python&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
-- 🥇 **Top Performer** at Aislyn Technologies for ML pipeline optimization
-- 📜 **Python for Data Science** - IBM Certification
-- 🤖 **Deep Learning Specialization** - DeepLearning.AI
-- 🎯 **Computer Vision with YOLO** - Ultralytics Certified
-- 📊 **Machine Learning Engineer** - Google Cloud Certification
-
----
 
 ## 📫 Let's Connect
 
