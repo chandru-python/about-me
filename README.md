@@ -148,3 +148,76 @@
 <td width="50%">
 
 **Technologies Used:**
+
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru-python&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandru-python&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandru-python&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandru-python&theme=radical" width="49%" />
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chandru-python&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+- 🥇 **Top Performer** at Aislyn Technologies for ML pipeline optimization
+- 📜 **Python for Data Science** - IBM Certification
+- 🤖 **Deep Learning Specialization** - DeepLearning.AI
+- 🎯 **Computer Vision with YOLO** - Ultralytics Certified
+
+---
+
+## 📫 Connect & Collaborate
+
+<p align="center">
+  <a href="mailto:chandrum071202@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chandrum071202/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/chandru-python">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/chandrum071202">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/chandru-python">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Always+learning+%7C+Always+building;AI+for+a+better+tomorrow;Open+for+collaborations+%26+opportunities" />
+</div>
+
+---
+
+<p align="center">
+  <b>⭐ If you like what you see, consider starring some repositories! ⭐</b>
+</p>
