@@ -1,187 +1,129 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=CHANDRU+M;Machine+Learning+Engineer;AI+%26+Deep+Learning+Specialist;Building+Intelligent+Systems" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandru-python&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/chandru-python?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/chandru-python?label=STARS&style=for-the-badge&color=yellow" alt="Stars" />
-</p>
+# 👋 Hi, I'm Chandru M
+
+### 🚀 ML & AI Engineer | Computer Vision | Generative AI | MLOps
+
+📍 Bengaluru, India  
+📧 chandrum071202@gmail.com  
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-🎯 **Machine Learning Engineer** with 1.10 years of hands-on experience in building and deploying **end-to-end AI solutions**  
-🔬 Specialized in **Computer Vision**, **AutoML Systems**, and **MLOps**  
-🚀 Passionate about creating **real-world impact** through AI in healthcare, agriculture, and accessibility  
-📊 Expert in **model optimization**, achieving **18% accuracy improvement** and **30% training time reduction**  
-🎓 B.E in Agriculture Engineering from Mahendra Engineering College  
+Machine Learning Engineer with **2+ years of experience** building **production-grade AI systems**.
 
-**Currently:** Building scalable ML pipelines at **Aislyn Technologies Pvt Ltd**  
-**Always:** Exploring cutting-edge AI technologies and contributing to open source
+- ⚡ Real-time AI systems using YOLOv8 & OpenCV  
+- 🧠 Generative AI with LLMs, RAG, LangChain  
+- 🚀 Scalable deployment using FastAPI, Docker & AWS  
+
+📈 **Impact Delivered**
+- ⬆️ 18% improvement in model accuracy  
+- ⚡ 30% reduction in training time  
+- 🚀 Low-latency inference systems (**<200ms**)  
 
 ---
 
-## 🛠️ Full Tech Arsenal
+## ⚙️ Tech Stack
 
-### 💾 Programming & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+### 💻 Languages & Data
+`Python` `SQL` `NoSQL` `FAISS` `ChromaDB`
 
 ### 🤖 Machine Learning & Deep Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
-</p>
+`PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `CNNs`
+
+### 🧠 Generative AI
+`LLMs` `Transformers` `RAG` `LangChain` `Prompt Engineering`
 
 ### 👁️ Computer Vision
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+`YOLOv8` `OpenCV` `Object Detection` `Face Recognition`
 
-### 📊 Algorithms & Techniques
-<p align="center">
-  <img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SVM-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Classification-4CAF50?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regression-2196F3?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🚀 MLOps & Deployment
-<p align="center">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 📈 Data Science & Analysis
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### 🛠️ Development Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDLE-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+### 🚀 Backend & MLOps
+`FastAPI` `Flask` `Docker` `MLflow` `AWS` `CI/CD`
 
 ---
 
-## 💪 Flagship Projects
+## 🔥 Featured Projects
 
-### 🔥 Project 1: AutoML Web Platform
-**End-to-end Automated Machine Learning System**
+### 🧠 Enterprise AI Knowledge Assistant
+**RAG + LLMs | FAISS | FastAPI**
 
-| **Aspect** | **Details** |
-|------------|-------------|
-| **Goal** | Build an intelligent AutoML system that automates the entire ML pipeline from data upload to model deployment |
-| **Tech Stack** | FastAPI, MLflow, Docker, Scikit-learn, Pandas, NumPy, Python |
-| **Key Features** | • Automated data preprocessing & feature engineering<br>• Multiple algorithm comparison (Random Forest, SVM, XGBoost)<br>• Hyperparameter tuning & model selection<br>• Real-time prediction REST APIs<br>• MLflow experiment tracking & monitoring<br>• Docker containerization for scalable deployment |
-| **Impact** | Reduced model development time by 60%, enabled non-technical users to leverage ML capabilities |
+- Built private document Q&A system using RAG  
+- Indexed **5000+ documents** for semantic search  
+- Reduced query latency by **40%**  
+- Implemented **source attribution for accuracy**  
 
 ---
 
-### 🌾 Project 2: Smart Soil Nutrient Prediction System
-**AI-Powered Agricultural Intelligence**
+### 🤖 AutoML Platform
+**FastAPI + MLflow + Docker**
 
-| **Aspect** | **Details** |
-|------------|-------------|
-| **Goal** | Predict soil nutrient levels to optimize crop yield and fertilizer recommendations |
-| **Tech Stack** | Python, Scikit-learn, XGBoost, Random Forest, SVR, Pandas, NumPy, Flask |
-| **Key Features** | • Comprehensive feature engineering from raw soil data<br>• Ensemble learning combining Random Forest, XGBoost, and SVM<br>• Hyperparameter optimization using GridSearchCV<br>• Robust inference pipeline with preprocessing consistency<br>• REST API for real-time predictions |
-| **Impact** | Achieved 92% accuracy in nutrient prediction, helping farmers reduce fertilizer costs by 25% |
+- End-to-end AutoML pipeline  
+- Automated preprocessing & model selection  
+- Reduced manual effort by **60%**  
+- Integrated experiment tracking with MLflow  
 
 ---
 
-### 🎥 Project 3: AI Smart Surveillance System
-**Real-time Security Intelligence Platform**
+### 🎥 AI Smart Surveillance System
+**YOLOv8 + Face Recognition**
 
-| **Aspect** | **Details** |
-|------------|-------------|
-| **Goal** | Develop an intelligent surveillance system for automated threat detection and facial recognition |
-| **Tech Stack** | YOLOv8, OpenCV, Face Recognition, CNN, Python, SQLite, FastAPI |
-| **Key Features** | • Real-time object detection using YOLOv8 (people, vehicles, suspicious items)<br>• Face recognition for known/unknown person identification<br>• Automated alert generation for security threats<br>• Event logging system with SQLite database<br>• Live monitoring dashboard with video streaming<br>• Intelligent image processing and frame analysis |
-| **Impact** | Reduced manual monitoring effort by 85%, improved threat detection accuracy by 40% |
+- Real-time object detection & tracking  
+- Face recognition for identity monitoring  
+- Automated alerts + event logging system  
+- High-accuracy production deployment  
 
 ---
 
-## 💼 Professional Experience
+### 🏗️ 3D Reconstruction System
+**Computer Vision + ML**
 
-### Machine Learning Engineer
-**Aislyn Technologies Pvt Ltd, Bengaluru** | *May 2024 – March 2026*
-
-**Key Achievements:**
-- ✅ Built and deployed **end-to-end ML pipelines** for classification and regression tasks
-- ✅ Improved model accuracy by **18%** through advanced feature engineering
-- ✅ Reduced training time by **30%** with hyperparameter optimization
-- ✅ Developed **production-ready REST APIs** using FastAPI
-- ✅ Implemented **MLOps practices** with MLflow and Docker
-- ✅ Deployed scalable solutions handling **1000+ requests/minute**
-
-**Technologies Used:** Python, Scikit-learn, TensorFlow, FastAPI, MLflow, Docker, Pandas, NumPy, XGBoost, Git, VS Code, SQL
+- Built 3D reconstruction pipeline using point cloud processing  
+- Applied ML for architectural modeling  
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandru-python&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru-python&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" width="48%" />
-</p>
+### Machine Learning Engineer  
+**Aislyn Technologies Pvt Ltd | May 2024 – Present**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandru-python&theme=radical" alt="Profile Details" width="90%" />
-</p>
-
-
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:chandrum071202@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/chandrum071202/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/chandru-python">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/chandrum071202">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/chandru-python">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-</p>
+- Designed end-to-end ML pipelines for production  
+- Built real-time APIs using FastAPI (**<200ms latency**)  
+- Developed RAG-based LLM systems  
+- Deployed scalable AI systems using Docker & AWS  
+- Managed experiments with MLflow  
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Always+learning+%7C+Always+building;AI+for+a+better+tomorrow;Open+for+collaborations+%26+opportunities" />
+<img src="https://github-readme-stats.vercel.app/api?username=chandru-python&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru-python&theme=github-dark&hide_border=true" width="48%" />
+
 </div>
 
 ---
 
-<p align="center">
-  <b>⭐ If you like what you see, consider starring some repositories! ⭐</b>
-</p>
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrum071202/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandru-python)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrum071202@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *Open to ML / AI Engineer opportunities*
+
+</div>
