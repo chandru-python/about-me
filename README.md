@@ -219,10 +219,4 @@ Mahendra Engineering College, Namakkal | *2020 – 2024*
 
 ---
 
-## 📊 Weekly Development Breakdown
 
-```text
-Python        8 hrs  ████████████░░░░░░░░   60%
-FastAPI       3 hrs  █████░░░░░░░░░░░░░░░   22%
-YOLOv8        2 hrs  ███░░░░░░░░░░░░░░░░░   15%
-Docker        1 hrs  █░░░░░░░░░░░░░░░░░░░    8%
