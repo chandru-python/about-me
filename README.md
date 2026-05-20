@@ -29,149 +29,122 @@
 
 ---
 
-# ⚡ About Me
+## ⚡ About Me
 
 🔥 AI/ML Engineer with **2+ years of experience** building scalable, production-grade AI systems.
 
 I specialize in:
 
-- 🧠 Generative AI & RAG Systems
-- 👁️ Computer Vision using YOLOv8
-- 🚀 Real-time Inference APIs
-- ⚙️ FastAPI + Docker + AWS Deployments
-- 📊 MLOps & Scalable AI Pipelines
+- 🧠 **Generative AI & RAG Systems** – LLMs, LangChain, Vector Databases
+- 👁️ **Computer Vision** – YOLOv8, OpenCV, Object Detection
+- 🚀 **Real-time Inference APIs** – FastAPI, Docker, <200ms latency
+- ⚙️ **MLOps & Deployment** – AWS, MLflow, CI/CD
 
-### 📈 Impact Delivered
+### 📈 Key Achievements
 
-✅ Improved model accuracy by **18%**  
-✅ Reduced training time by **30%**  
-✅ Built low-latency inference systems (**<200ms**)  
-✅ Developed enterprise-grade AI automation systems  
+| Metric | Improvement |
+|--------|-------------|
+| Model Accuracy | ↑ 18% |
+| Training Time | ↓ 30% |
+| Inference Latency | <200ms |
+| Manual Selection Effort | ↓ 60% |
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## 💻 Languages & Databases
+### 💻 Languages & Databases
 
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb"/>
-
-<br>
-
-`FAISS` `ChromaDB`
+`Python` `SQL` `NoSQL` `FAISS` `ChromaDB`
 
 ---
 
-## 🤖 Machine Learning & Deep Learning
+### 🤖 ML & Deep Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<br>
-
-`Scikit-learn` `XGBoost` `CNNs` `U-Net`
+`TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` `CNNs` `U-Net`
 
 ---
 
-## 🧠 Generative AI
+### 🧠 Generative AI
 
 `LLMs` `Transformers` `RAG` `LangChain` `Prompt Engineering`
 
 ---
 
-## 👁️ Computer Vision
+### 👁️ Computer Vision
 
-`YOLOv8` `OpenCV` `Object Detection` `Face Recognition`
+`YOLOv8` `OpenCV` `Object Detection` `Face Recognition` `Image Segmentation`
 
 ---
 
-## 🚀 Backend & MLOps
+### 🚀 Backend & MLOps
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,aws,git"/>
-
-<br>
-
-`MLflow` `CI/CD`
+`FastAPI` `Flask` `Docker` `AWS` `MLflow` `Git` `CI/CD`
 
 </div>
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
+
+### 🧠 Enterprise AI Knowledge Assistant (RAG + LLMs)
+
+- Built private-document Q&A system using RAG + FAISS
+- Indexed 5,000+ documents for semantic search
+- Reduced query response latency by **40%**
+- Implemented source-attribution for **100% factual accuracy**
+
+**Tech:** `LangChain` `FAISS` `FastAPI` `LLMs`
 
 ---
 
-## 🧠 Enterprise Secure RAG Assistant
+### 🤖 AutoML Web Platform
 
-### `LangChain` `FAISS` `FastAPI` `Streamlit`
+- End-to-end platform for automated EDA, preprocessing, and model selection
+- Reduced manual model selection effort by **60%**
+- Integrated MLflow for experiment tracking
 
-🚀 Production-style Enterprise RAG system with:
-
-- 🔐 RBAC-based secure retrieval
-- 📄 Multi-source enterprise datasets
-- 🧠 Semantic vector search
-- 📊 Explainable AI responses
-- 📌 Citations + Confidence Indicators
-- ⚡ FastAPI backend + Streamlit UI
-
-### 📈 Highlights
-
-✅ Indexed enterprise datasets using FAISS  
-✅ Implemented retrieval traceability  
-✅ Added audit logging system  
-✅ Minimized hallucinations with grounded responses  
+**Tech:** `FastAPI` `MLflow` `Docker` `Scikit-learn`
 
 ---
 
-## 🤖 AutoML Platform
+### 🎥 AI Smart Surveillance System
 
-### `FastAPI` `MLflow` `Docker`
+- Real-time object detection using YOLOv8
+- Face recognition for identity monitoring
+- Automated alert generation
 
-- ⚙️ End-to-end AutoML pipeline
-- 📊 Automated preprocessing & evaluation
-- 🚀 Reduced manual effort by 60%
-- 🧠 Integrated experiment tracking
-
----
-
-## 🎥 AI Smart Surveillance System
-
-### `YOLOv8` `OpenCV` `Face Recognition`
-
-- 👁️ Real-time object detection
-- 🔍 Identity monitoring system
-- 🚨 Automated alert generation
-- ⚡ Production-grade inference pipeline
+**Tech:** `YOLOv8` `OpenCV` `Face Recognition` `Python`
 
 ---
 
-## 🏗️ 3D Reconstruction System
+### 🏗️ 3D Temple Reconstruction System
 
-### `Computer Vision` `Point Cloud Processing`
+- ML-powered 3D reconstruction using point clouds
+- Designed for architectural preservation
 
-- 🏛️ 3D reconstruction pipeline
-- 📸 Architectural preservation system
-- 🧠 ML-powered structural modeling
-
----
-
-# 💼 Experience
-
-## 🚀 Machine Learning Engineer
-
-### Aislyn Technologies Pvt Ltd | May 2024 – Present
-
-- 🧠 Designed scalable ML/DL pipelines
-- ⚡ Built FastAPI inference APIs (<200ms latency)
-- 🚀 Developed enterprise RAG systems
-- 🐳 Deployed AI systems using Docker & AWS
-- 📊 Managed MLflow experiment tracking
-- 👁️ Built YOLOv8 real-time vision systems
+**Tech:** `Computer Vision` `Point Cloud Processing` `ML Models`
 
 ---
 
-# 📊 GitHub Analytics
+## 💼 Experience
+
+### 🚀 Machine Learning Engineer
+
+**Aislyn Technologies Pvt Ltd, Bengaluru** | *May 2024 – Present*
+
+- Designed scalable end-to-end ML/DL pipelines improving accuracy by **18%**
+- Reduced training time by **30%** with optimized data pipelines
+- Built real-time inference APIs (FastAPI + Docker) with **<200ms latency**
+- Developed production-ready RAG solutions for enterprise use cases
+- Deployed YOLOv8-based vision systems for live object detection
+- Managed MLOps lifecycle using MLflow and AWS
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -183,7 +156,7 @@ I specialize in:
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -193,7 +166,20 @@ I specialize in:
 
 ---
 
-# 📫 Connect With Me
+## 📜 Certifications
+
+- **Python Backend Development** – JSpiders (Advanced OOP, SQL, RESTful APIs)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering in Agriculture Engineering**  
+Mahendra Engineering College, Namakkal | *2020 – 2024*
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
