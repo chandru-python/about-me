@@ -54,34 +54,42 @@ I specialize in:
 ## 🛠️ Tech Stack
 
 <div align="center">
+## 🛠️ Tech Stack
 
 ### 💻 Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-`Python` `SQL` `NoSQL` `FAISS` `ChromaDB`
-
----
+### 🧠 Vector Databases
+![FAISS](https://img.shields.io/badge/FAISS-0769AD?style=for-the-badge&logo=facebook&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00C853?style=for-the-badge&logo=chroma&logoColor=white)
 
 ### 🤖 ML & Deep Learning
-
-`TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` `CNNs` `U-Net`
-
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ### 🧠 Generative AI
-
-`LLMs` `Transformers` `RAG` `LangChain` `Prompt Engineering`
-
----
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 👁️ Computer Vision
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-`YOLOv8` `OpenCV` `Object Detection` `Face Recognition` `Image Segmentation`
+### 🚀 Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
----
-
-### 🚀 Backend & MLOps
-
-`FastAPI` `Flask` `Docker` `AWS` `MLflow` `Git` `CI/CD`
+### 📊 MLOps & Tools
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
