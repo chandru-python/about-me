@@ -10,6 +10,7 @@
 
 📍 Bengaluru, India  
 📧 chandrum071202@gmail.com  
+📞 +91 9789283546
 
 <br>
 
@@ -54,7 +55,6 @@ I specialize in:
 ## 🛠️ Tech Stack
 
 <div align="center">
-## 🛠️ Tech Stack
 
 ### 💻 Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,22 +62,22 @@ I specialize in:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧠 Vector Databases
-![FAISS](https://img.shields.io/badge/FAISS-0769AD?style=for-the-badge&logo=facebook&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-00C853?style=for-the-badge&logo=chroma&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0769AD?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00C853?style=for-the-badge&logo=chromadb&logoColor=white)
 
-### 🤖 ML & Deep Learning
+### 🤖 Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ### 🧠 Generative AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 👁️ Computer Vision
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🚀 Backend & Deployment
@@ -89,7 +89,7 @@ I specialize in:
 ### 📊 MLOps & Tools
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
@@ -99,41 +99,41 @@ I specialize in:
 
 ### 🧠 Enterprise AI Knowledge Assistant (RAG + LLMs)
 
+**Tech Stack:** ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0769AD?style=flat-square&logo=meta&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
 - Built private-document Q&A system using RAG + FAISS
 - Indexed 5,000+ documents for semantic search
 - Reduced query response latency by **40%**
 - Implemented source-attribution for **100% factual accuracy**
 
-**Tech:** `LangChain` `FAISS` `FastAPI` `LLMs`
-
 ---
 
 ### 🤖 AutoML Web Platform
+
+**Tech Stack:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 - End-to-end platform for automated EDA, preprocessing, and model selection
 - Reduced manual model selection effort by **60%**
 - Integrated MLflow for experiment tracking
 
-**Tech:** `FastAPI` `MLflow` `Docker` `Scikit-learn`
-
 ---
 
 ### 🎥 AI Smart Surveillance System
+
+**Tech Stack:** ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 - Real-time object detection using YOLOv8
 - Face recognition for identity monitoring
 - Automated alert generation
 
-**Tech:** `YOLOv8` `OpenCV` `Face Recognition` `Python`
-
 ---
 
 ### 🏗️ 3D Temple Reconstruction System
 
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
 - ML-powered 3D reconstruction using point clouds
 - Designed for architectural preservation
-
-**Tech:** `Computer Vision` `Point Cloud Processing` `ML Models`
 
 ---
 
@@ -142,6 +142,12 @@ I specialize in:
 ### 🚀 Machine Learning Engineer
 
 **Aislyn Technologies Pvt Ltd, Bengaluru** | *May 2024 – Present*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
 - Designed scalable end-to-end ML/DL pipelines improving accuracy by **18%**
 - Reduced training time by **30%** with optimized data pipelines
@@ -176,11 +182,17 @@ I specialize in:
 
 ## 📜 Certifications
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
 - **Python Backend Development** – JSpiders (Advanced OOP, SQL, RESTful APIs)
 
 ---
 
 ## 🎓 Education
+
+![Graduation](https://img.shields.io/badge/B.E-Agriculture%20Engineering-00C853?style=flat-square)
 
 **Bachelor of Engineering in Agriculture Engineering**  
 Mahendra Engineering College, Namakkal | *2020 – 2024*
@@ -207,10 +219,10 @@ Mahendra Engineering College, Namakkal | *2020 – 2024*
 
 ---
 
-<div align="center">
+## 📊 Weekly Development Breakdown
 
-# ⭐ Open to AI/ML Engineer Opportunities
-
-### 🚀 Generative AI | RAG | LLMs | Computer Vision | MLOps
-
-</div>
+```text
+Python        8 hrs  ████████████░░░░░░░░   60%
+FastAPI       3 hrs  █████░░░░░░░░░░░░░░░   22%
+YOLOv8        2 hrs  ███░░░░░░░░░░░░░░░░░   15%
+Docker        1 hrs  █░░░░░░░░░░░░░░░░░░░    8%
